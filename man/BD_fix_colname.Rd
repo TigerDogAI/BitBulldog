@@ -23,6 +23,6 @@ This function standardizes column names by:
 }
 \examples{
 df <- data.frame("Col (1)" = 1:3, "Name's-Age" = c(20, 25, 30))
-AH_fix_colname(df)
+BD_fix_colname(df)
 
 }
