@@ -11,7 +11,7 @@
 #' @return A data frame with cleaned column names
 #' @examples
 #' df <- data.frame("Col (1)" = 1:3, "Name's-Age" = c(20, 25, 30))
-#' AH_fix_colname(df)
+#' BD_fix_colname(df)
 #'
 #' @export
 BD_fix_colname <- function(the_data) {
