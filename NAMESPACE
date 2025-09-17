@@ -2,9 +2,12 @@
 
 export(BD_1_cat)
 export(BD_1_cont)
+export(BD_check_unique)
 export(BD_compare_balance)
 export(BD_count_unique_categories)
 export(BD_fix_colname)
+export(BD_get_duplicates)
+export(BD_quote_rm)
 export(BD_today)
 export(hello)
 importFrom(dplyr,arrange)
