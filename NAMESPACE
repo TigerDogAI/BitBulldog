@@ -2,6 +2,7 @@
 
 export(BD_1_cat)
 export(BD_1_cont)
+export(BD_SID_creator)
 export(BD_check_unique)
 export(BD_compare_balance)
 export(BD_count_unique_categories)
